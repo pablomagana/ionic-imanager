@@ -1,0 +1,7 @@
+{
+  "name": "imagnager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
